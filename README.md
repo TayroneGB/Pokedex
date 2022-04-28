@@ -15,7 +15,7 @@
 
 ## A ideia da aplicação é:
 
-“Comprienter e praticar a utilização e Api atraveis de um simples programa de informações de Pokemon”.
+“Compreender e praticar a utilização de Api, atreveis de um simples programa de informações de Pokemon”.
 
 **PS:** A Pokedex foi apenas o contexto escolhido por mim para este projeto, com a intenção de praticar pequenos conhecimentos, então você pode reutilizar tudo aqui em seu próximo projeto.
 
